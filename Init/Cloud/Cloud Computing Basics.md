@@ -98,4 +98,4 @@ para entender a AWS ou qualquer serviço de numve voce precisa conhcer a triade 
 
    Quando um usuário posta uma foto nova, o servidor EC2 processa o pedido, mas ele não salva a imagem no próprio disco rígido. Ele envia a foto para o S3, que guarda a imagem de forma segura e barata.
 
-# ⚠️OBSERVAÇÃO APÓS POR EM PRATICA TUDO QUE VOCE TESTOU COM ESSE GUI EXCLUA DA SUA AWS PARA NAO RECEBER UMA SUPRESA NO CARTÃO DE CREDITO⚠️
+# ⚠️OBSERVAÇÃO APÓS POR EM PRATICA TUDO QUE VOCE TESTOU COM ESSE GUIA EXCLUA DA SUA AWS PARA NAO RECEBER UMA SUPRESA NO CARTÃO DE CREDITO⚠️
