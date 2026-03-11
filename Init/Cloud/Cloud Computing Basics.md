@@ -39,15 +39,20 @@ selecione o tipo de instancia( o poder de processamento), configure o armazename
 
 * **! *Importante*:O S3 não roda Sistemas operacionais nem aplicativos, ele é apenas um lugar segura e com espaço virtualmente ilimitado para guardar dados estáticos**
 
-* Como funciona: Ja na Console  selecionada o S3 
-1 - crie um bucket: Um container onde seus arquivos irão ficar armazenados 
-em <br>
-2-Passo de padrões: 
- - propriedades do objeto  deixe desabilitado.
- - em configurções de bloqueio deixe o padrão
- - versionamento fica a criteiro <br>
-3-criptografia use a SSE-S3 de melhor configuração <br>
-4- Clique em criar<br>
+* Como funciona:
+  
+      Ja na Console  selecionada o S3 
+
+      1 - crie um bucket: Um container onde seus arquivos irão ficar armazenados 
+
+      2-Passo de padrões: 
+       - propriedades do objeto  deixe desabilitado.
+       - em configurções de bloqueio deixe o padrão
+       - versionamento fica a criteiro <br>
+      
+      3-criptografia use a SSE-S3 de melhor configuração <br>
+      
+      4- Clique em criar<br>
 
 voce pode tanto carregar ou arrastar o arquivo para fazer o upload
 
