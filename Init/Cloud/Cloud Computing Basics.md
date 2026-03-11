@@ -33,3 +33,21 @@ selecione o tipo de instancia( o poder de processamento), configure o armazename
 
 
 #### 2. S3(Simple Storage Service): O "Armazenamento"
+* Oque é : O S3 é um serviço de objetos. Diferentes Hd de um computador, ele é feito para guardar arquivos indenpendentes, que são chamados de "objetos" e colocados em pastas chamadas de "Bucketes", em persistencia é um serviço de object storage
+
+* Para que serve: Serve para guardar Imagens Videos, backups, documentos e arquvios de logs.
+
+* **! *Importante*:O S3 não roda Sistemas operacionais nem aplicativos, ele é apenas um lugar segura e com espaço virtualmente ilimitado para guardar dados estáticos**
+
+* Como funciona: Ja na Console  selecionada o S3 
+1 - crie um bucket: Um container onde seus arquivos irão ficar armazenados 
+em <br>
+2-Passo de padrões: 
+ - propriedades do objeto  deixe desabilitado.
+ - em configurções de bloqueio deixe o padrão
+ - versionamento fica a criteiro <br>
+3-criptografia use a SSE-S3 de melhor configuração <br>
+4- Clique em criar<br>
+
+voce pode tanto carregar ou arrastar o arquivo para fazer o upload
+
