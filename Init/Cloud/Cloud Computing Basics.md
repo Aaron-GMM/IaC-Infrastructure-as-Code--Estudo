@@ -1,9 +1,9 @@
 # Cloud Computing Basics
 [
-   ### Fontes:
-- Cloud computing: Trasnformando o Mundo da Tecnologia da Informação
-- <a src =" https://medium.com/criando-o-futuro-com-a-nuvem-aws/como-usar-amazon-ec2-s3-e-rds-na-aws-um-guia-prático-para-iniciantes-4d4e75823be9    ">*![Como Usar Amazon EC2, S3 e RDS na AWS: Um Guia Prático para Iniciantes]*</a>
-- 
+### Fontes:
+-<a src="https://www.sistemas24horas.com.br/aulas/files_semi2018/livro-computacao-em-nuvem-taurion.pdf"> Cloud computing: Trasnformando o Mundo da Tecnologia da Informação</a>
+- <a src =" https://medium.com/criando-o-futuro-com-a-nuvem-aws/como-usar-amazon-ec2-s3-e-rds-na-aws-um-guia-prático-para-iniciantes-4d4e75823be9">*![Como Usar Amazon EC2, S3 e RDS na AWS: Um Guia Prático para Iniciantes]*</a>
+
 ]
 
 
