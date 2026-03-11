@@ -54,5 +54,5 @@ selecione o tipo de instancia( o poder de processamento), configure o armazename
       
       4- Clique em criar<br>
 
-voce pode tanto carregar ou arrastar o arquivo para fazer o upload
+   voce pode tanto carregar ou arrastar o arquivo para fazer o upload
 
